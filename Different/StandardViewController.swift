@@ -55,7 +55,6 @@ extension StandardViewController: UICollectionViewDataSource {
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: SquareCell.description(), for: indexPath)
-        cell.backgroundColor = color
         return cell
     }
 }
