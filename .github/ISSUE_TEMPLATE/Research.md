@@ -8,6 +8,10 @@ about: We need to look into that. - Some Engineer.
 
 **Example:** I am researching ways of displaying chat bubbles to meet design requirements.
 
+**What is the deliverable?**
+
+**Example:** At the end of this research, we should have decided on a way of displaying chat bubbles.
+
 **What aspects of the business does this research impact?**
 - [ ] Engineering
 - [ ] Compliance/Legal
@@ -15,4 +19,4 @@ about: We need to look into that. - Some Engineer.
 - [ ] Design
 
 **Additional context**
-Add any other context or screenshots about the bug here.
+Add any other context or screenshots about the research here.
